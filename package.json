@@ -1,0 +1,22 @@
+{
+  "name": "handler-session",
+  "version": "0.1.0",
+  "description": "Session handler for Node.js, compatible with some session storages",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardothibes/handler-session.git"
+  },
+  "keywords": [
+    "session"
+  ],
+  "author": "Leonardo Thibes <leonardothibes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardothibes/handler-session/issues"
+  },
+  "homepage": "https://github.com/leonardothibes/handler-session#readme"
+}
